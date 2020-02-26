@@ -1,5 +1,5 @@
 Flask==0.12.2
-gunicorn==19.3.0
+gunicorn==19.5.0
 itsdangerous==0.24
 Flask-GoogleMaps==0.2.4
 dict-digger==0.2.1
