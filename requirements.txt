@@ -29,7 +29,7 @@ pywin32-ctypes==0.1.2
 ratelim==0.1.6
 requests==2.18.1
 requests-oauthlib==0.8.0
-setuptools==28.8.0
+setuptools==65.5.1
 six==1.10.0
 urllib3==1.21.1
 Werkzeug==0.12.2
